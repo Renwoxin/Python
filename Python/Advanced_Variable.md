@@ -67,10 +67,10 @@ Out[10]: 10919456
 ```
 ## 可变和不可变型
 + 不可变型，内存中的数据不允许被修改:
-  - 数字类型 int，bool，float，complex，long（2，x） # (2, x)是啥意思？
+  - 数字类型 int，bool，float，complex，long（2.x） # (2.x) -- Python2.x 才有这个数据类型
   - 字符串 str
   - 元组 tuple
-+ 可变类型，内存中的数据不允许被修改：  # 这句话写错了
++ 可变类型，内存中的数据允许被修改： 
   - 列表 list
   - 字典 dict
 
