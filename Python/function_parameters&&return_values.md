@@ -439,4 +439,4 @@ def print_info(name,gender=True,title)
 ```
 **程序执行流程**
 
-![recursion1](iamge/recursion1.png)
+![recursion1](image/recursion1.png)
