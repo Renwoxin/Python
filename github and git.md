@@ -1,10 +1,10 @@
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Markdown 使用](#markdown-使用)
+- [GitHub and git 使用](#github-and-git-使用)
 	- [在本地合并 pull request](#在本地合并-pull-request)
 
 <!-- /TOC -->
-# Markdown 使用
+# GitHub and git 使用
 ## 在本地合并 pull request
 
 Step 1: From your project repository, check out a new branch and test the changes.
